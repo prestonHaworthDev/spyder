@@ -1,3 +1,7 @@
+## Simple Magic Test
+
+This is an alternate magic system with fewer rules. The consequence is ambiguity meaning every cast is entirely up to the narrator's interpretation and descretion.
+
 | Spells | Description | Cost |
 | :--- | :--- | :--- |
 | **Fire Manipulation** | Can telekinetically manipulate fire | 6 |
