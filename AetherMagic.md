@@ -1,24 +1,24 @@
 ### Spells
-The spells in Spyder are specifically written to be ambiguous. This is intended to give the authority to the narrator as to whether a spell can accomplish what the player is trying to accomplish. Some of the rules I felt necessary to be very specific on. It is the narrator’s responsibility to ignore the specifics of any spell rules in favor of the narrative. For example, some spells I specify a specific time duration, or distance in feet. Though these numbers are specified in the rules, they are intended to be rough estimates. Your time playing Spyder is not intended to be spent measuring the world and doing math. A “small amount” can mean something different for one spell than another.
+The spells in Spyder are written to be ambiguous. This is intended to give the authority to the narrator as to whether a spell can accomplish what the player is trying to accomplish. Some of the rules I felt necessary to be very specific on. It is the narrator’s responsibility to ignore the specifics of any spell rules in favor of the narrative. For example, some spells specify a time duration, or distance in feet. Though these numbers are specified in the rules, they are intended to be rough estimates. Your time playing Spyder is not intended to be spent measuring the world and doing math. A “small amount” can mean something different for one spell than another.
 
 
 **Examples:**
-Small amount
+
+**Small amount:**
 An inconsequential amount. Generally not enough to turn the tides of a situation.
-Arm’s reach
+
+**Arm’s reach:**
 The distance a character can reach to touch a target. Generally about 5 ft. May require actually touching the target.
-5 cubic feet
+
+**5 cubic feet:**
 Roughly the size of a barrel or human
 
 When casting a spell, it is noticeable to all 5 senses unless it is cast with a Subtle upgrade. Just because the spell is noticeable does not mean a character will recognize it. For example a character may be deaf and not see you casting a spell, but you are close enough for them to smell the spell. If the spell smells like brimstone, they may mistakenly accuse their ally of breaking wind.
 
+Unlike proficiencies, spells and their upgrades have a cost as opposed to a cap. Proficiencies can be invested into at any LP amount less than their cap. To obtain a spell or upgrade, the entire cost is required.
+
 ### Aether
-Aether is a resource that is farmed from the atmosphere by magical means. It can be refined into any state of matter, but is most commonly sold as a gas contained in vials. The most common unit of aether is 2 grams, often referred to as 1 Ae. Some spells require refined aether to be  dispersed back into the atmosphere in order (or “consumed”) to be cast, making it a valuable resource for magic users.
-
->Player can put any amount less than their cap in a proficiency
->Is a language default?
-
-Spells and upgrades cost exactly their cost
+Aether is a resource that (depending on your setting) is farmed from the atmosphere, living beings, or crystals by magical means. It can be refined into any state of matter, but may be more common in some states than others. (for example, sold as a gas contained in vials, potions, or stones) The base unit of aether is 2 grams, often referred to as 1 Ae. Some spells require refined aether to be dispersed back into the atmosphere or consumed in order to be cast, making Ae a valuable resource for magic users.
 
 #### Magic Proficiencies
 | Name | Description | Cap |
