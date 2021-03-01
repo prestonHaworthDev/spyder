@@ -10,7 +10,7 @@ This page does not replace the rulebook, but it is a handy reference!
 
 **Passive Carry Weight = 60 + (Legs * 60) lbs**
 
-**Rest is 1/day for 8 hours to recover 1HP
+**Rest is 1/day for 8 hours to recover 1HP**
 
 **Paced Challenges:**
 
