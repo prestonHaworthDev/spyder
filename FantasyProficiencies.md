@@ -18,7 +18,10 @@
 #### Other Proficiencies
 | Name | Description | Cap |
 | :--- | :--- | :--- |
-| Base Hit Points | | 4 |
+| Base Hit Points | Increases your Base HP | 4 |
+| Swimming | Swim speed increased by 10ft | 2 |
+| Wings | The strength, stability, and endurance of the character's wings (or any other force that grants the character flight). []For each point of Wings, the character's passive carrying capacity while flying increases by 60lbs, and their flight speed increases by 10ft. | 2 |
+| Choose any language | A proficiency of 1 means you understand the language and can read it. []A proficiency of 2 means you can speak the language and write it. | 2 |
 | Blunt | | 2 |
 | Blades | | 2 |
 | Axes | | 2 |
@@ -52,7 +55,6 @@
 | Physics | | 2 |
 | Climbing | | 2 |
 | Jumping | | 2 |
-| Swimming | Swim speed increased by 10ft | 2 |
 | Disguise | | 2 |
 | Forgery | | 2 |
 | Herbalism | | 2 |
@@ -98,7 +100,6 @@
 | Performance | | 2 |
 | Persuasion | | 2 |
 | Sewing | | 2 |
-| Choose any language | A proficiency of 1 means you understand the language and can read it. []A proficiency of 2 means you can speak the language and write it. | 2 |
 | Aliens | | 2 |
 | Animals | | 2 |
 | Holy beings | | 2 |
@@ -112,4 +113,3 @@
 | Slimes | | 2 |
 | Plants | | 2 |
 | Undead | | 2 |
-| Wings | The strength, stability, and endurance of the character's wings (or any other force that grants the character flight). []For each point of Wings, the character's passive carrying capacity while flying increases by 60lbs, and their flight speed increases by 10ft. | 2 |
