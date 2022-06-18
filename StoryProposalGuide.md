@@ -1,4 +1,6 @@
-## How To Draft a Story Proposal
+# Story Proposal Guide For Spyder
+
+### How To Draft a Story Proposal
 **Asthetic:** Consider referencing a piece of fiction your players are familiar with. *"Mad Max meets 28 Days Later,"* or *"Stranger Things meets Lord of the Rings"*<br/>
 **Genre:** Fantasy Adventure? Grimdark Mystery? Cosmic Horror?<br/>
 **Mood:** The general emotion your players can expect to feel either a majority of the game, or at the climax. *"Meloncholy," "Inspiring," "Life's Tough."* What are they going to walk away with when game night is over?<br/>
