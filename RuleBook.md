@@ -1,3 +1,5 @@
+# Rulebook For Spyder
+
 ## Intro to RPGs
 If you’ve played tabletop RPGs before, feel free to skip to “Intro to Spyder”, otherwise heres a few important things to keep in mind that apply to all social role playing games.
 
