@@ -12,14 +12,28 @@ There is an opportunity to experiment with different story writing approaches. I
 > *Hazel proposes the Vanguard takes a character driven approach to try to make the story more fun, but the rest of the group would rather play a plot driven game while they are learning since they are all so unfamiliar with the rules. After some thought, Hazel agrees and begins drafting a story proposal.*
 
 ## Narrator Tutorial: What's the Story?
-Start by filling out a Story Proposal Sheet. This will give your players an idea of what to expect from the story, and give them an opportunity to add any amendments to your idea. If you decide for your story to be more character driven, let your players begin designing their characters before this step so that your setting is informed by the characters it is about.
+Start by following the Story Proposal Guide, and drafting a Story Proposal. This will give your players an idea of what to expect from the story, and give them an opportunity to add any amendments to your idea. Remember you are playing a game, not writing a novel so try to keep your proposal brief. Only add the details necessary to guide your player's character creation decisions, or the decision of whether or not they want to play this story. If you decide for your story to be more character driven, let your players begin designing their characters before this step so that your setting is informed by the characters it is about.
 
-> *Hazel does this.* **(I need to go draft the proposal sheet first...)**
+> *Hazel opens the Story Proposal Helper and follows it copying her answers to a piece of paper.*
+> 
+> **Asthetic:** High Fantasy<br/>
+> **Genre:** Fantasy Adventure<br/>
+> **Mood:** Inspiring and Motivating<br/>
+> **Plot Hook:** The local slime population has been getting out of control. The player characters are frustrated by the slimes everywhere and decide to band together and go figure out what's causing them to multiply so rapidly.<br/>
+> **Threat Level:** Some combat with a small chance of character death, but the rolls will typically be weighted in the player's favor.<br/>
+> **What happens at 0HP:** Your character is unconcious and considered bleeding out. If not treated and stabalized IMMEDIATELY, they are dead.<br/>
+> **Additional or Optional Rules and Content:** Favorite UP, The Fantasy Proficiencies Archive For Spyder, and Simple Spells for Spyder<br/>
+> **Starting LP:** 20<br/>
+> **When will LP be granted:** At the end of every session, the players will get 2LP for attending.<br/>
+> **When can LP be spent:** Only in-between sessions.<br/>
+> **Trigger Warnings:** Possible violence and light blood and gore with described wounds. Nothing too detailed or grotesque. Maybe some suggestive content and flirting, but nothing overtly sexual.<br/>
+>
+> *Hazel has 2 more ideas and can't choose between the three, so she drafts a proposal for all 3 and lets the players decide which story they want to play. The above proposal is the one they all agreed on.*
 
 ## Player Tutorial: Character Creation!
-Get a picture in your head of your character. Not just what they look like, but where they come from, but also what their values and desires are. Then ask, what are they good at? Spend your LP on the proficiencies that make the most sense for that character. It may be helpful to start with Universal Proficiencies, then get more specific from there. Also consider any supplements your group may be using such as any spells or abilities that also cost LP.
+Get a picture in your head of your character. Not just what they look like, but where they come from and what their values and desires are. Then ask, what are they good at? Spend your LP on the proficiencies that make the most sense for that character. It may be helpful to start with Universal Proficiencies, then get more specific from there. Also consider any supplements your group may be using such as any spells or abilities that also cost LP.
 
-> *This is The Vanguard of Hope's first time playing Spyder, so Hazel granted everyone the default 20LP to spend on character creation. Gus gets excited about the idea of "Banjo," an empathitic country boy who learned magic from forest fairies to help his parents farm. Hazel has informed the group she is using the optional "Favorite UP" rule to allow each player to pick one UP to boost the cap up to 3LP. He looks at the 12 Universal Proficiencies.*
+> *This is The Vanguard of Hope's first time playing Spyder, so Hazel granted everyone the default 20LP to spend on character creation. Gus gets excited about the idea of "Banjo," an empathitic country boy who learned magic from forest fairies to help on his parents' farm. Hazel has informed the group she is using the optional "Favorite UP" rule to allow each player to pick one UP to boost the cap up to 3LP. He looks at the 12 Universal Proficiencies.*
 >
 > * **Arms**
 > * **Legs**
@@ -62,3 +76,5 @@ Get a picture in your head of your character. Not just what they look like, but 
 
 ## The Story Begins!
 It is the narrator's responsibility to set the stage for the player characters to meet, but it is the player's responsibility to take the narrators hooks and find a reason for their character to be involved in the story. In a character driven story this will feel more natural, as the characters are the reason for the plot, while in a plot driven story it might feel a little forced and awkward. That's okay. You are here because you want to play the game. Suspend your disbelief and make a reason for your character to be there, even if it doesn't make sense.
+
+> *Hazel finds a fantasy lute playlist on her phone and lets it play quietly in the background as she describes the 4 player characters entering a tavern in the small village of Faekiss. The characters each take respective seats somewhere in the tavern as they over-hear the chef in the kitchen shout "more darn slimes!?" Gus recognizes the hook and describes Banjo rushing to the kitchen to investigate. Hazel describes the scene that Banjo and the other player characters find in the kitchen, and everybody takes turns improvising their parts of the story as described in the "How To Play" chapter of the rulebook. Gradually the Vanguard of Hope unfold an exciting story full of laughs and memories that isn't artificially interrupted by complex rules, inane die rolls, or monotonous math. Now they are playing Spyder.*
