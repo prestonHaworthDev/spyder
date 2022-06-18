@@ -1,6 +1,7 @@
-## Simple Magic Test
+# Simple Spells For Spyder
 
 This is an alternate magic system with fewer rules. The consequence is ambiguity meaning every cast is entirely up to the narrator's interpretation and descretion.
+***TO DO: Re-format and refine to make canon!***
 
 | Spells | Description | Cost |
 | :--- | :--- | :--- |
