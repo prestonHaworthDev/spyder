@@ -1,3 +1,5 @@
+# Spyder Tutorial
+
 > *Meet the Vanguard of Hope! A small group of friends who meets every week to play board games. This week Hazel brought a game she found on DriveThruRPG called Spyder. It's a relaxing alternative to the more complex and popular TTRPGs they've played in the past. She's already read the rules and thinks it's going to be a good fit for the group, so she printed out a copy and brought it to board game night!*
 
 ## Who's the narrator?
