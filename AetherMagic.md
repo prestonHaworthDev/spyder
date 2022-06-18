@@ -1,3 +1,5 @@
+# Aether Magic For Spyder
+
 ### Spells
 The spells in Spyder are written to be ambiguous. This is intended to give the authority to the narrator as to whether a spell can accomplish what the player is trying to accomplish. Some of the rules I felt necessary to be very specific on. It is the narrator’s responsibility to ignore the specifics of any spell rules in favor of the narrative. For example, some spells specify a time duration, or distance in feet. Though these numbers are specified in the rules, they are intended to be rough estimates. Your time playing Spyder is not intended to be spent measuring the world and doing math. A “small amount” can mean something different for one spell than another.
 
