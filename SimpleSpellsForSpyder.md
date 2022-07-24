@@ -36,6 +36,7 @@ The descriptions of these spells are intentionally ambiguous. It is the narrator
 | **Animate Plant** | Can make plants wiggle | 6 |
 | **Animate Element** | Can make golems | 6 |
 | **Awaken** | Can make a creature more intelligent for a minute by touch | 4 |
+| **Inside Place** | Can enter the abstract inner-world of a person or thing | 8 |
 
 ### Details for Narrators
 The following details are simply suggestions intended to aid any narrator struggling to rule what a character can or can not do with a spell. These are not rules, and it is still the narrator who holds the authority on the behavior of magic. All of these spells are inspired by Aether Magic For Spyder, so consider that document for variation of these spells.
@@ -73,3 +74,4 @@ The following details are simply suggestions intended to aid any narrator strugg
 | **Animate Plant** | A plant up to 300lbs in size within arm’s reach will animate for 30 minutes. The plant has no apparent intelligence beyond moving aimlessly. When the 30 minutes end, the plant will return to its inert state. This spell can be combined with Awaken to give the plant intelligence. |
 | **Animate Element** | Up to 300lbs of elemental matter within arm’s reach will arise with apparent life for 30 minutes. The risen golem has no apparent intelligence beyond moving around aimlessly. When the 30 minutes end, the matter will return to its inert state. This spell can be combined with Awaken to give the golem intelligence. |
 | **Awaken** | A creature within reach becomes more intelligent for 1 minute. |
+| **Inside Place** | The caster can shrink themselves and a handful of creatures within reach into a quantum-like realm that exists "inside" a person or thing. These realms are abstract dream-like representations of the person or thing they occupy. |
